@@ -1,4 +1,4 @@
 # Bookcorner database
 
-Databse for bookcorner app
+Database for bookcorner app
 
